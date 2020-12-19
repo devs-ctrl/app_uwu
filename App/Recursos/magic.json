@@ -1,1 +1,240 @@
-[{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0A.jpg","name":"Zero Two","author":"Unknown","collections":"Darling in the Franxx","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0B.jpg","name":"Miku Nakano","author":"miazi","collections":"Go-Tōbun no Hanayome","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0C.jpg","name":"NIno Nakano","author":"@android21s","collections":"Go-Tōbun no Hanayome","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0D.jpeg","name":"Yunyun","author":"OokamiRika","collections":"Konosuba","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0E.jpg","name":"Zero Two","author":"胖達熊","collections":"Darling in the Franxx","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0F.png","name":"Zero Two","author":"@diazotaku07","collections":"Darling in the Franxx","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0G.jpg","name":"Chino-Chan","author":"Myuchiron","collections":"Gochūmon wa Usagi Desu ka?","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0H.jpg","name":"Thypon","author":"Unknown","collections":"Re:Zero","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0I.jpg","name":"Rem","author":"電磁砲二期@お仕事募集中","collections":"Re:Zero","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0J.jpg","name":"Megumin","author":"Unknown","collections":"Konosuba","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0K.jpg","name":"Sagiri Izumi","author":"なぎは@お仕事募集","collections":"Eromanga-Sensei","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0L.jpg","name":"Rikka Takanashi","author":"電磁砲二期@お仕事募集中","collections":"Chūnibyō Demo Koi ga Shitai!","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0M.jpg","name":"Nezuko Kamado","author":"電磁砲二期@お仕事募集中","collections":"Kimetsu no Yaiba","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/chica.jpg","name":"¡Hola!","author":"Importante","collections":"Aviso","downloadable":false},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/00.jpg","name":"00","author":"00","collections":"Love Live","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/01.jpg","name":"00","author":"00","collections":"Love Live","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/02.jpg","name":"00","author":"00","collections":"Love Live","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/03.jpg","name":"00","author":"00","collections":"Love Live","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/04.jpg","name":"00","author":"00","collections":"Love Live","downloadable":true},{"url":"https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/tsuyu.jpg","name":"¡Hola!","author":"Importante","collections":"Aviso","downloadable":false}]
+[
+   {
+      "author": "GM",
+      "collections": "Re:Drive",
+      "downloadable": true,
+      "name": "Kokkoro",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/kokkoro2.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Re:Drive",
+      "downloadable": true,
+      "name": "Pecorine",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/pecorine.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Re:Drive",
+      "downloadable": true,
+      "name": "Kokkoro",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/kokkoro.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Re:Drive",
+      "downloadable": true,
+      "name": "Karyl",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/karyl2.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Re:Drive",
+      "downloadable": true,
+      "name": "Karyl",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/karyl.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Fate Grand Order",
+      "downloadable": true,
+      "name": "Jeanne",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/jeanne.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Re:Zero",
+      "downloadable": true,
+      "name": "Emilia",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/emilia.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "One Piece",
+      "downloadable": true,
+      "name": "Yamato",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/yamato.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Kill la Kill",
+      "downloadable": true,
+      "name": "Mako",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/mako.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "KOF",
+      "downloadable": true,
+      "name": "Kula",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/kula.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Sword Art Online",
+      "downloadable": true,
+      "name": "Azuna",
+      "url": "https://github.com/devs-ctrl/app_uwu/blob/main/App/Recursos/Img/7u7/G/azuna2.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Boku No Hero",
+      "downloadable": true,
+      "name": "Mina",
+      "url": "https://github.com/devs-ctrl/app_uwu/blob/main/App/Recursos/Img/7u7/G/mina.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Boku No Hero",
+      "downloadable": true,
+      "name": "Rumi",
+      "url": "https://github.com/devs-ctrl/app_uwu/blob/main/App/Recursos/Img/7u7/G/rumi2.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Boku No Hero",
+      "downloadable": true,
+      "name": "Rumi",
+      "url": "https://github.com/devs-ctrl/app_uwu/blob/main/App/Recursos/Img/7u7/G/rumi.jpg"
+   },
+   {
+      "author": "Unknown",
+      "collections": "Darling in the Franxx",
+      "downloadable": true,
+      "name": "Zero Two",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0A.jpg"
+   },
+   {
+      "author": "miazi",
+      "collections": "Go-Tōbun no Hanayome",
+      "downloadable": true,
+      "name": "Miku Nakano",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0B.jpg"
+   },
+   {
+      "author": "@android21s",
+      "collections": "Go-Tōbun no Hanayome",
+      "downloadable": true,
+      "name": "NIno Nakano",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0C.jpg"
+   },
+   {
+      "author": "OokamiRika",
+      "collections": "Konosuba",
+      "downloadable": true,
+      "name": "Yunyun",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0D.jpeg"
+   },
+   {
+      "author": "胖達熊",
+      "collections": "Darling in the Franxx",
+      "downloadable": true,
+      "name": "Zero Two",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0E.jpg"
+   },
+   {
+      "author": "@diazotaku07",
+      "collections": "Darling in the Franxx",
+      "downloadable": true,
+      "name": "Zero Two",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0F.png"
+   },
+   {
+      "author": "Myuchiron",
+      "collections": "Gochūmon wa Usagi Desu ka?",
+      "downloadable": true,
+      "name": "Chino-Chan",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0G.jpg"
+   },
+   {
+      "author": "Unknown",
+      "collections": "Re:Zero",
+      "downloadable": true,
+      "name": "Thypon",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0H.jpg"
+   },
+   {
+      "author": "電磁砲二期@お仕事募集中",
+      "collections": "Re:Zero",
+      "downloadable": true,
+      "name": "Rem",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0I.jpg"
+   },
+   {
+      "author": "Unknown",
+      "collections": "Konosuba",
+      "downloadable": true,
+      "name": "Megumin",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0J.jpg"
+   },
+   {
+      "author": "なぎは@お仕事募集",
+      "collections": "Eromanga-Sensei",
+      "downloadable": true,
+      "name": "Sagiri Izumi",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0K.jpg"
+   },
+   {
+      "author": "電磁砲二期@お仕事募集中",
+      "collections": "Chūnibyō Demo Koi ga Shitai!",
+      "downloadable": true,
+      "name": "Rikka Takanashi",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0L.jpg"
+   },
+   {
+      "author": "電磁砲二期@お仕事募集中",
+      "collections": "Kimetsu no Yaiba",
+      "downloadable": true,
+      "name": "Nezuko Kamado",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/I/0M.jpg"
+   },
+   {
+      "author": "Importante",
+      "collections": "Aviso",
+      "downloadable": false,
+      "name": "¡Hola!",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/chica.jpg"
+   },
+   {
+      "author": "00",
+      "collections": "Love Live",
+      "downloadable": true,
+      "name": "00",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/00.jpg"
+   },
+   {
+      "author": "00",
+      "collections": "Love Live",
+      "downloadable": true,
+      "name": "00",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/01.jpg"
+   },
+   {
+      "author": "00",
+      "collections": "Love Live",
+      "downloadable": true,
+      "name": "00",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/02.jpg"
+   },
+   {
+      "author": "00",
+      "collections": "Love Live",
+      "downloadable": true,
+      "name": "00",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/03.jpg"
+   },
+   {
+      "author": "00",
+      "collections": "Love Live",
+      "downloadable": true,
+      "name": "00",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DG/04.jpg"
+   },
+   {
+      "author": "Importante",
+      "collections": "Aviso",
+      "downloadable": false,
+      "name": "¡Hola!",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/tsuyu.jpg"
+   }
+]
