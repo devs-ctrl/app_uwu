@@ -1,6 +1,34 @@
 [
    {
       "author": "GM",
+      "collections": "Boku No Hero",
+      "downloadable": true,
+      "name": "Mina",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/mina.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Boku No Hero",
+      "downloadable": true,
+      "name": "Rumi",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/rumi2.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Boku No Hero",
+      "downloadable": true,
+      "name": "Rumi",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/rumi.jpg"
+   },
+   {
+      "author": "GM",
+      "collections": "Sword Art Online",
+      "downloadable": true,
+      "name": "Azuna",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/azuna2.jpg"
+   },
+   {
+      "author": "GM",
       "collections": "Re:Drive",
       "downloadable": true,
       "name": "Kokkoro",
