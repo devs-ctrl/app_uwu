@@ -544,5 +544,12 @@
       "downloadable": false,
       "name": "¡Hola!",
       "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/tsuyu.jpg"
+   },
+   {
+      "author": "Unknown",
+      "collections": "Girls Und Panzer",
+      "downloadable": true,
+      "name": "Chiyomi Anzai",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DK/Anzai%20Chiyomi.jpg"
    }
 ]
