@@ -1,12 +1,109 @@
 [
-  {
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Himiko Toga",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/himikotoga.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Uraraka",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/huraraka.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Itsuka Kendo",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/itsukakendo.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Kyouka Jirou",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/kyoukajirou.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Mt Lady",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/mtlady.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Nejire Hado",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/nejirehado.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Rumi",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/rumi5.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Toga & Uraraka",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/togayuraraka.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Tsuyu",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/tsuyu5.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Tsuyu",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/tsuyu6.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Tsuyu",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/tsuyu7.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Tsuyu",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/tsuyu8.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Uraraka",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/uraraka.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Uraraka",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/uraraka2.jpg"
+   },
+   {
       "author": "Unknown",
-      "collections": "Girls Und Panzer",
-      "downloadable": true,
+      "collections": "Girl und Panzer",
+      "downloadable": "true",
       "name": "Chiyomi Anzai",
       "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/DK/Anzai%20Chiyomi.jpg"
    },
-   
    {
       "author": "Hentaiser",
       "collections": "Original",
@@ -14,7 +111,6 @@
       "name": "Original",
       "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/original25.jpg"
    },
-   
    {
       "author": "Hentaiser",
       "collections": "Original",
