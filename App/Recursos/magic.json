@@ -1,6 +1,41 @@
 [
    {
       "author": "GD",
+      "collections": "Naruto",
+      "downloadable": "true",
+      "name": "Hinata",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/hinata.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Naruto",
+      "downloadable": "true",
+      "name": "Hinata",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/hinata2.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Naruto,Konosuba",
+      "downloadable": "true",
+      "name": "Hinata y Megumin",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/hinataymegumin.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Naruto",
+      "downloadable": "true",
+      "name": "Sarada",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/sarada.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Naruto",
+      "downloadable": "true",
+      "name": "Tsunade",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/tsunade.jpg"
+   },
+   {
+      "author": "GD",
       "collections": "Kimetsu no Yaiba",
       "downloadable": "true",
       "name": "Nezuko",
