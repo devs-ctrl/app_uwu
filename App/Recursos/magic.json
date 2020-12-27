@@ -1,6 +1,62 @@
 [
    {
       "author": "GD",
+      "collections": "Genshin Impact",
+      "downloadable": "true",
+      "name": "Amber",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/amber.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Genshin Impact",
+      "downloadable": "true",
+      "name": "Amber",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/amber2.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Genshin Impact",
+      "downloadable": "true",
+      "name": "Amber",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/amber3.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Re:Drive",
+      "downloadable": "true",
+      "name": "Pecorine",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/pecorine5.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Re:Drive",
+      "downloadable": "true",
+      "name": "Kokkoro",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/kokkoro5.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "One Piece",
+      "downloadable": "true",
+      "name": "Boa Hancock",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/boahancock1.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Sword Art Online",
+      "downloadable": "true",
+      "name": "Asuna",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/asuna5.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Sword Art Online",
+      "downloadable": "true",
+      "name": "Asuna",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/asunaelfo1.jpg"
+   },
+   {
+      "author": "GD",
       "collections": "Konosuba",
       "downloadable": "true",
       "name": "Megumin",
