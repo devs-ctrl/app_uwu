@@ -1,6 +1,27 @@
 [
    {
       "author": "GD",
+      "collections": "Fate Series",
+      "downloadable": "true",
+      "name": "Rin Tohsaka",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/rintohsaka.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Ano Natsu de Matteru",
+      "downloadable": "true",
+      "name": "Ichika Takatsuki",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/ichikatakatsuki.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Blend S",
+      "downloadable": "true",
+      "name": "Hinata Kaho",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/kahohinata.jpg"
+   },
+   {
+      "author": "GD",
       "collections": "Girl und Panzer",
       "downloadable": "true",
       "name": "Darjee Ling",
