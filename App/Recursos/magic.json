@@ -1,6 +1,34 @@
 [
    {
       "author": "GD",
+      "collections": "Girl und Panzer",
+      "downloadable": "true",
+      "name": "Darjee Ling",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/darjeeling.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Girl und Panzer",
+      "downloadable": "true",
+      "name": "Yukari Akiyama",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/yukariakiyama.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Girl und Panzer",
+      "downloadable": "true",
+      "name": "Yukari Akiyama",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/yukariakiyama3.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Girl und Panzer",
+      "downloadable": "true",
+      "name": "Mako Reizei",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/makoreizei.jpg"
+   },
+   {
+      "author": "GD",
       "collections": "Genshin Impact",
       "downloadable": "true",
       "name": "Amber",
