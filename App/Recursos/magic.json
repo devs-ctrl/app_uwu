@@ -1,5 +1,138 @@
 [
    {
+      "author": "GD",
+      "collections": "Naruto",
+      "downloadable": "true",
+      "name": "Hinata",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/hinata3.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Uzaki-Chan",
+      "downloadable": "true",
+      "name": "Hana Uzaki",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/hanauzaki.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Uzaki-Chan",
+      "downloadable": "true",
+      "name": "Tsuki Uzaki",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/kazuyamiura.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Pokemon",
+      "downloadable": "true",
+      "name": "Liza",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/liza.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Eromanga-Sensei",
+      "downloadable": "true",
+      "name": "Izumi Sagiri",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/izumisagiri.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Bleach",
+      "downloadable": "true",
+      "name": "Ranigiku",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/rangikumatsumoto.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Kimetsu no Yaiba",
+      "downloadable": "true",
+      "name": "Shinobu Kocho",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/shinobukocho5.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Watashi ni Tenshi ga Moiorita",
+      "downloadable": "true",
+      "name": "Miyako Hoshino",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/miyakohoshino.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Re:Zero",
+      "downloadable": "true",
+      "name": "Rem",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/rem.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Fate Series",
+      "downloadable": "true",
+      "name": "Mash Kyrielight",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/mashkyrielight.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Tengen Toppa Gurren Lagann",
+      "downloadable": "true",
+      "name": "Yoko",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/yoko.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Ranma 1/2",
+      "downloadable": "true",
+      "name": "Shampoo",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/shampoo.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "One Punch Man",
+      "downloadable": "true",
+      "name": "Tatsumaki",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/tatsumaki.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "KOF",
+      "downloadable": "true",
+      "name": "Fio",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/fio.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "KOF",
+      "downloadable": "true",
+      "name": "Kula",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/kula2.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Itsuka Kendo",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/itsukakendo2.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Mid Night",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/midnight.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Ryu Kotsuchikawa",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/ryukotsuchikawa.jpg"
+   },
+   {
+      "author": "GD",
+      "collections": "Boku No Hero",
+      "downloadable": "true",
+      "name": "Momo y Uraraka",
+      "url": "https://raw.githubusercontent.com/devs-ctrl/app_uwu/main/App/Recursos/Img/7u7/G/urarakaymomo.jpg"
+   },
+   {
       "author": "SLUGBOX",
       "collections": "Original",
       "downloadable": "true",
